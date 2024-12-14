@@ -1,5 +1,3 @@
-# Task of Web Development Internship at Prodigy Infotech.
-
 # TempoTrack : The Stopwatch WebApp
 
 This is a simple stopwatch application created using HTML, CSS, and JavaScript. It allows users to start, stop, and reset the stopwatch.
